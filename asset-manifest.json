@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Atishay027/react-project/static/css/main.6c768156.css",
+    "main.js": "/Atishay027/react-project/static/js/main.785608e3.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/Atishay027/react-project/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/cloud.png": "/Atishay027/react-project/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/Atishay027/react-project/index.html",
+    "main.6c768156.css.map": "/Atishay027/react-project/static/css/main.6c768156.css.map",
+    "main.785608e3.js.map": "/Atishay027/react-project/static/js/main.785608e3.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/Atishay027/react-project/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c768156.css",
+    "static/js/main.785608e3.js"
+  ]
+}
